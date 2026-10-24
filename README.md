@@ -36,8 +36,8 @@ npx skills add arm-pz/keyword-resolver
 
 ## Not for
 
-- Technical SEO diagnosis → use [seo-audit](https://github.com/arm-pz/seo-audit)
-- Mass page generation → use [programmatic-seo](https://github.com/arm-pz/programmatic-seo)
+- Technical SEO diagnosis → use [seo-crawl](https://github.com/arm-pz/seo-crawl) or [seo-polish](https://github.com/arm-pz/seo-polish)
+- Mass page generation → use programmatic-seo (third-party, [marketingskills](https://github.com/coreyhaines31/marketingskills))
 - General discoverability audit → use [findable-polish](https://github.com/arm-pz/findable-polish)
 
 ## Related
